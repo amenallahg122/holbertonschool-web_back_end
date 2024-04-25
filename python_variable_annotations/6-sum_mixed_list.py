@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""6"""
+"""Return sum of elements of mxd_list."""
 from typing import List, Union
 
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""9"""
+"""Return list of tuples"""
 from typing import List, Tuple, Sequence, Iterable
 
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""8"""
+"""Return function that multiplies float by `multiplier"""
 from typing import Callable
 
 

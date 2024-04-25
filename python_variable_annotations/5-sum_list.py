@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""5"""
+"""Return sum of all elements in input_list"""
 
 from typing import List
 

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""3"""
+"""Return n as a string"""
 
 
 def to_str(n: float) -> str:
