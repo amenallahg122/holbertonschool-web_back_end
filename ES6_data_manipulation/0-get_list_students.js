@@ -16,4 +16,3 @@ const getListStudents = () => [
 	},
   ];
   export default getListStudents;
-  
