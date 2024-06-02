@@ -1,6 +1,5 @@
-export default function getResponseFromAPI() {
-	const myPromise = new Promise(((resolve) => {
-	  resolve();
-	}));
-	return myPromise;
+export default function getResponseFormAPI() {
+	return new Promise((resolve) => {
+	  resolve(true);
+	});
   }
